@@ -1,9 +1,11 @@
+This is a new file
+
 Hello Mr. Rajasekhar, good to hear you.
 I am able to see some years exp in your resume....
 Could you please brief about yourself?
 
 
-Brief me your current assignments?
+Brief me about your current assignments?
 
 
 How do you rate yourself in Datawarehouse and Data modeling?
