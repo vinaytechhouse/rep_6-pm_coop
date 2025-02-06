@@ -1,0 +1,43 @@
+Hello Mr. Rajasekhar, good to hear you.
+I am able to see some years exp in your resume....
+Could you please brief about yourself?
+
+
+Brief me your current assignments?
+
+
+How do you rate yourself in Datawarehouse and Data modeling?
+in the scale of 1 to 5
+
+What is Datamart and How many types of data marts available?
+What is DWH approach and How many types of DWH approaches available?
+
+How do you rate in Power BI Visuals?
+in the scale of 1 to 5
+
+Tell me the custom visuals you have used?
+Difference between bar charts and pie charts?
+What is Sync Slicer?
+What is Drill through in Power BI?
+
+How do you rate in the DAX ?
+in the scale of 1 to 5
+
+Difference between sum and sumx?
+Difference between Addcolumn and Selectcolumn?
+What is the usage of summarize in DAX?
+When do we go for Evaluate command in DAX?
+
+
+How do you rate in SQL?
+in the scale of 1 to 5
+
+Difference between Sub Query and Join?
+Difference between simple sub query and coorelated sub query?
+How do we find out second maximum salary in a table if you have a salary column?
+How do we identify duplicates in a table using SQL?
+
+
+
+
+
